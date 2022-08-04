@@ -14,11 +14,11 @@ const userData = [
     {
         username: "lebron_james" , 
         password: "m!ck3y",
-        email: "fakelaker@yahoo.com",
+        email: "lakerfaker@yahoo.com",
     },
     {
         username: "kevin_durant" , 
         password: "b4bys0ft?",
-        email: "imisssteph@gmail.com",
+        email: "takemeback@gmail.com",
     },
 ]
