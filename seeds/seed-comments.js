@@ -7,3 +7,7 @@ const commentData = [
         comment_content: "Trying to be like you!"
     },
 ]
+
+const userComments = () => Comment.bulkCreate(commentData);
+
+module.exports = userComments;

@@ -22,3 +22,6 @@ const userData = [
         email: "takemeback@gmail.com",
     },
 ]
+const userSeeds = () => User.bulkCreate(userData);
+
+module.exports = userSeeds;
