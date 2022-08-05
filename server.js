@@ -24,7 +24,7 @@ app.use(express.static("public"));
 app.use(session(sess));
 app.use(require("./controllers"));
 
-app.engine("handlebars", exphbs.engine());
+app.engine("handlebars", hbs.engine);
 app.set("view engine", "handlebars");
 
 
