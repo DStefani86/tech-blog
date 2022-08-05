@@ -28,7 +28,8 @@ app.engine("handlebars", exphbs.engine());
 app.set("view engine", "handlebars");
 
 
-
-app.listen(PORT, () => console.log(`Now listening on http://localhost:${PORT}`));
+sequelize.sync({force: false}).then(() => {
+  app.listen(PORT, () => console.log(`Now listening on http://localhost:${PORT}`))
+});
 
 
