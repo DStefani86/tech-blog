@@ -31,7 +31,7 @@ Next are my many to many relationships in models
 
 ![CodeEx02](./images/CodeEx02.png)
 
-Here is an example of my Tag model
+This is an example of my SignUp form using express-handles bars. Using IDs to call on in my public js folder.
 
 ![CodeEx03](./Develop/images/CodeEx03.png)
 
