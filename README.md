@@ -25,11 +25,11 @@ Visit my GitHub repository featured in the Questions section below. Find the eco
 
 I am including some examples of my code to demonstrate the functionality of my application. I wanted to showcase some of my functions and decisions while making this application. First are my connections.
 
-![CodeEx01](./Develop/images/CodeEx01.png)
+![CodeEx01](./images/CodeEx01.png)
 
-Next are my many to many connections 
+Next are my many to many relationships in models
 
-![CodeEx02](./Develop/images/CodeEx02.png)
+![CodeEx02](./images/CodeEx02.png)
 
 Here is an example of my Tag model
 
