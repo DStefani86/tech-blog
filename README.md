@@ -31,23 +31,17 @@ Next are my many to many relationships in models
 
 ![CodeEx02](./images/CodeEx02.png)
 
-This is an example of my SignUp form using express-handles bars. Using IDs to call on in my public js folder.
+This is an example of my SignUp form using express-handles bars. Using IDs to call on in my public js folder
 
-![CodeEx03](./Develop/images/CodeEx03.png)
+![CodeEx03](./images/CodeEx03.png)
 
 This is how I connected the server
 
-![CodeEx04](./Develop/images/CodeEx04.png)
+![CodeEx04](./images/CodeEx04.png)
 
-This is my findAll route 
+This is my findAll route for users
 
 ![CodeEx05](./Develop/images/CodeEx05.png)
-
-
-
-If you have any other curiosities about the functionality of this application please watch the tutorial video I have included
-
-[Video Example](https://drive.google.com/file/d/1-mR0Hd8pzo5zcp_vcH7SxZd3DuB4RglB/view)
 
 
 
